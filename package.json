@@ -1,0 +1,14 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "This is an simple app to show JSON data in the form of table",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Pushpendra",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^18.3.15"
+  }
+}
